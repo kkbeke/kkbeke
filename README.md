@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in web development<br>🌱 I’m currently learning JavaScript Framework such as React<br>💞️ I’m looking to collaborate on any project that would enhance my skills.<br>📫 How to reach me - you can email me carlosechavezjr@gmail.com
+👀 I’m interested in web development<br>🌱 I’m currently learning some popular JavaScript Framework<br>💞️ I’m looking to collaborate on any project that would enhance my skills.<br>📫 How to reach me - you can email me carlosechavezjr@gmail.com
 
 
 ## 🌐 Socials:
